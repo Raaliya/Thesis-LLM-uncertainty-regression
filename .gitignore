@@ -1,0 +1,10 @@
+#python
+__pycache__/
+*.pyc
+*.pyo
+#env
+venv/
+.env/
+#model
+*.pt
+*.pth
