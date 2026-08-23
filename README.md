@@ -1,4 +1,4 @@
-# LLM-Derived Features for probabilistic deep learning models
+# Enhancing Reliability of Probabilistic Deep Learning Models Using LLM-Derived Features
 
 ## Project overview
 
