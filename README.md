@@ -1,4 +1,4 @@
-# LLM-Derived Features for Uncertainty-Aware Regression
+# LLM-Derived Features for probabilistic deep learning models
 
 ## Project overview
 
